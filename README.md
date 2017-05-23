@@ -1,7 +1,9 @@
 ## Imgview
 
 
-### 依赖react-hammerjs npm i react-hammerjs --save 
+### 依赖react-hammerjs 
+
+####npm i react-hammerjs --save 
 
 
 ## 使用：
